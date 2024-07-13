@@ -1,6 +1,6 @@
 # Stack-and-Heap-Memory-Management
 
-This project simulates stack and heap memory management using C structures and functions. It includes the creation and deletion of function frames, and the allocation of various data types within those frames. The project also handles the allocation and deallocation of memory buffers on the heap.
+
 
 ## Introduction
 
